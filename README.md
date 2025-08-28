@@ -1,5 +1,5 @@
 # Responsive Coffee Website
-## [Watch it on youtube](https://youtu.be/uyFOM-LpuX4)
+
 ### Responsive Coffee Website
 
 - Responsive Coffee Website Usign HTML CSS JavaScript
